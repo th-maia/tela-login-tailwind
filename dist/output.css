@@ -680,6 +680,10 @@ video {
   margin-left: 50%;
 }
 
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .block {
   display: block;
 }
@@ -810,6 +814,10 @@ video {
 
 .justify-between {
   justify-content: space-between;
+}
+
+.place-self-center {
+  place-self: center;
 }
 
 .rounded-full {
@@ -1036,6 +1044,14 @@ video {
 
 .pl-3 {
   padding-left: 0.75rem;
+}
+
+.pl-1 {
+  padding-left: 0.25rem;
+}
+
+.pl-4 {
+  padding-left: 1rem;
 }
 
 .font-sans {
