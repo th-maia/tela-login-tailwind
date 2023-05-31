@@ -1,11 +1,14 @@
 # [💻 Tailwind CSS - tela de login]
 
-Este projeto utiliza Tailwind CSS para realizar as 
+Este projeto utiliza Tailwind CSS para realizar a stylização do site. 
+Utilizamos conceitos como gradient, blur, group, flex, importaão de fonte e imagens. transações de animação suave com transition-opacit no login e password que quando clicados fazem acedem uma iluminação no input.
+
 Esse projeto foi utilizado conhecimentos adquiridos no codante(https://codante.io/mini-projetos/mp-tela-login-tailwind)
+
+## 🔨 Requisitos
 
 Você foi contratado por uma empresa de desenvolvimento de software para criar uma tela login para um site de investimentos.
 
-## 🔨 Requisitos
 - Crie uma tela de login responsiva, que se adapte a diferentes tamanhos de tela.
 - Utilize o framework Tailwind CSS para estilizar os elementos da tela de login.
 - A tela de login deve conter os seguintes elementos:
@@ -16,9 +19,6 @@ Você foi contratado por uma empresa de desenvolvimento de software para criar u
 - Após o usuário fazer o login com sucesso, redirecione-o para uma página de boas-vindas.
 - Capriche no design! Use sua criatividade para criar uma interface atraente e amigável, aproveitando os recursos oferecidos pelo Tailwind CSS.
 
-## 🔍 Dicas
-- Considere adicionar transições e animações suaves para tornar a experiência do usuário mais agradável.
-- Teste seu design em diferentes dispositivos e navegadores para garantir que ele seja responsivo e funcional em todos eles.
 
 ## 🎨 Página
 ![image](src/img/readme/site.png)
