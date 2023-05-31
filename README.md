@@ -24,9 +24,6 @@ Você foi contratado por uma empresa de desenvolvimento de software para criar u
 ![image](src/img/readme/site.png)
 
 ## Instalação do projeto
-
-# Orientações de INSTALAÇÃO DO PROJETO
-
   1. Clone o repositório
   - Entre na pasta que deseja instalar no terminal.
   - Use o comando: `git clone git@github.com:th-maia/tela-login-tailwind.git`.
