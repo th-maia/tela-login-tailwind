@@ -21,7 +21,7 @@ Você foi contratado por uma empresa de desenvolvimento de software para criar u
 - Teste seu design em diferentes dispositivos e navegadores para garantir que ele seja responsivo e funcional em todos eles.
 
 ## 🎨 Página
-![image](src/img/image.jpg)
+![image](src/img/readme/site.png)
 
 ## Instalação do projeto
 
@@ -32,4 +32,3 @@ Você foi contratado por uma empresa de desenvolvimento de software para criar u
   - Use o comando: `git clone git@github.com:th-maia/tela-login-tailwind.git`.
   - Entre na pasta do repositório que você acabou de clonar:
   - Entre na pasta src/ e execute o arquivo index.html
-
