@@ -31,4 +31,4 @@ Você foi contratado por uma empresa de desenvolvimento de software para criar u
   - Entre na pasta que deseja instalar no terminal.
   - Use o comando: `git clone git@github.com:th-maia/tela-login-tailwind.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-  - Entre na pasta src/ e execute o arquivo index.html
+  - Entre na pasta `src/` e execute o arquivo `index.html`.
